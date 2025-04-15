@@ -21,8 +21,8 @@ Antes de comenzar, asegúrate de tener instalado lo siguiente:
 1. **Clona o descarga el repositorio:**
 
 ```bash
-git clone https://github.com/tu_usuario/tu_proyecto.git
-cd tu_proyecto
+git clone https://github.com/JuanPabloMarquina/teamtimev2.git
+cd teamtimev2
 ```
 
 2. **Crea la base de datos en MySQL:**
